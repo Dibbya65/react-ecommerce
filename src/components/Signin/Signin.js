@@ -40,7 +40,7 @@ export default class Signin extends Component {
           />
           <FormInput
             type='password'
-            name='email'
+            name='password'
             handleChange={this.handleChange}
             value={this.state.password}
             label='password'

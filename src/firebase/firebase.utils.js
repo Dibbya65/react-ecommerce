@@ -5,6 +5,7 @@ import 'firebase/auth';
 const config = {
   apiKey: 'AIzaSyC6mpyNbLc-Wr9oMtRKap8Bek6GfLxGGaE',
   authDomain: 'react-ecommerce-cb3d4.firebaseapp.com',
+  databaseURL: 'https://react-ecommerce-cb3d4-default-rtdb.firebaseio.com',
   projectId: 'react-ecommerce-cb3d4',
   storageBucket: 'react-ecommerce-cb3d4.appspot.com',
   messagingSenderId: '335892600335',
